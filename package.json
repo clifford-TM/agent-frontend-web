@@ -1,0 +1,27 @@
+{
+  "name": "agente_frontend",
+  "version": "1.0.0",
+  "description": "AI-powered backend service for generating frontend code from development tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clifford-TM/agent-frontend-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/clifford-TM/agent-frontend-web/issues"
+  },
+  "homepage": "https://github.com/clifford-TM/agent-frontend-web#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
